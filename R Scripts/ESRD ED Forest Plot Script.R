@@ -8,7 +8,10 @@ library(ggplot2)
 # ========================
 # File Paths
 # ========================
-main_dir <- "Results1/Unnamed_Analysis_359371/"  # <--- CHANGE THIS
+# Folder containing the one year results
+dir_1yr  <- "Results1/Unnamed_Analysis_359371/"   # <--- update if renamed
+# Folder containing the five year results
+dir_5yr  <- "Results1/ESRD_ED_5_year/"           # <--- update this path
 
 # ========================
 # Outcome Mapping (for Outcome_8+)
@@ -72,10 +75,18 @@ read_outcome_file <- function(file) {
 }
 
 # ========================
-# Load all RR files
+# Load all RR files for both time horizons
 # ========================
-all_files <- list.files(main_dir, pattern = "Outcome_\\d+_Result_a_MOA_table\\.csv", full.names = TRUE)
-rr_data <- map_dfr(all_files, read_outcome_file)
+read_rr_dir <- function(directory, label) {
+  files <- list.files(directory, pattern = "Outcome_\\d+_Result_a_MOA_table\\.csv", full.names = TRUE)
+  if (length(files) == 0) return(NULL)
+  map_dfr(files, read_outcome_file) %>% mutate(TimeHorizon = label)
+}
+
+rr_data <- bind_rows(
+  read_rr_dir(dir_1yr, "1-year"),
+  read_rr_dir(dir_5yr, "5-year")
+)
 
 # Label master + sub outcomes
 labeled <- rr_data %>%
@@ -106,23 +117,29 @@ plot_df <- labeled %>%
   mutate(
     rr_ci = sprintf("RR = %.2f [%.2f–%.2f]", `Risk Ratio`, `95 % CI Lower`, `95 % CI Upper`),
     Label = fct_inorder(SubLabel),
-    MasterLabel = fct_inorder(MasterLabel)
+    MasterLabel = fct_inorder(MasterLabel),
+    TimeHorizon = factor(TimeHorizon, levels = c("1-year", "5-year"))
   )
 
-forest_plot <- ggplot(plot_df, aes(x = `Risk Ratio`, y = Label)) +
-  geom_point(size = 3, shape = 21, fill = "black") +
-  geom_errorbarh(aes(xmin = `95 % CI Lower`, xmax = `95 % CI Upper`), height = 0.2) +
-  geom_text(aes(label = rr_ci), hjust = -0.1, size = 3.2) +
+pd <- position_dodge(width = 0.5)
+
+forest_plot <- ggplot(plot_df, aes(x = `Risk Ratio`, y = Label, group = TimeHorizon)) +
+  geom_point(aes(shape = TimeHorizon), position = pd, size = 3, fill = "black") +
+  geom_errorbarh(aes(xmin = `95 % CI Lower`, xmax = `95 % CI Upper`, linetype = TimeHorizon),
+                 position = pd, height = 0.2) +
+  geom_text(aes(label = rr_ci), position = pd, hjust = -0.1, size = 3.2) +
   geom_vline(xintercept = 1, linetype = "dashed", color = "gray50") +
   facet_wrap(~ MasterLabel, scales = "free_y", ncol = 1, strip.position = "left") +
   scale_x_continuous(trans = "log2", breaks = c(0.5, 1, 2, 4, 8),
                      expand = expansion(mult = c(0.01, 0.3))) +
+  scale_shape_manual(values = c("1-year" = 21, "5-year" = 22)) +
+  scale_linetype_manual(values = c("1-year" = "solid", "5-year" = "dotted")) +
   theme_minimal(base_size = 13) +
   theme(
     axis.title.y = element_blank(),
     strip.text = element_text(face = "bold"),
     panel.grid.minor = element_blank(),
-    panel.spacing.y = unit(1, "lines")
+    panel.spacing.y = unit(2, "lines")
   ) +
   labs(
     title = "Forest Plot Grouped by Master Outcome",
@@ -130,7 +147,7 @@ forest_plot <- ggplot(plot_df, aes(x = `Risk Ratio`, y = Label)) +
   )
 
 print(forest_plot)
-# ggsave("forest_plot.svg", forest_plot, width = 10, height = 12)
+# ggsave("forest_plot.svg", forest_plot, width = 8.5, height = 11)
 
 # ========================
 # KM Plot for Outcomes 1-3
@@ -149,7 +166,7 @@ read_km_file <- function(file) {
   return(df)
 }
 
-km_files <- list.files(main_dir, pattern = "Outcome_[123]_Result_b_KM_graph\\.csv", full.names = TRUE)
+km_files <- list.files(dir_1yr, pattern = "Outcome_[123]_Result_b_KM_graph\\.csv", full.names = TRUE)
 km_data <- map_dfr(km_files, read_km_file) %>%
   left_join(km_labels, by = "OutcomeNum")
 
