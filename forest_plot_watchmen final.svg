@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="576.00pt"
+   height="720.00pt"
+   viewBox="0 0 576.00 720.00"
+   version="1.1"
+   id="svg201"
+   sodipodi:docname="forest_plot_watchmen.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs201" />
+  <sodipodi:namedview
+     id="namedview201"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showguides="true"
+     inkscape:zoom="0.82527842"
+     inkscape:cx="453.78625"
+     inkscape:cy="511.94844"
+     inkscape:window-width="1424"
+     inkscape:window-height="836"
+     inkscape:window-x="46"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g28">
+    <sodipodi:guide
+       position="0,720"
+       orientation="0,768"
+       id="guide201"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="576,720"
+       orientation="960,0"
+       id="guide202"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="576,0"
+       orientation="0,-768"
+       id="guide203"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-960,0"
+       id="guide204"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,720"
+       orientation="0,768"
+       id="guide205"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="576,720"
+       orientation="960,0"
+       id="guide206"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="576,0"
+       orientation="0,-768"
+       id="guide207"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-960,0"
+       id="guide208"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,720"
+       orientation="0,768"
+       id="guide209"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="576,720"
+       orientation="960,0"
+       id="guide210"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="576,0"
+       orientation="0,-768"
+       id="guide211"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-960,0"
+       id="guide212"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="307.04117,718.51312"
+       orientation="0,-1"
+       id="guide215"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="539.73823,714.79591"
+       orientation="1,0"
+       id="guide216"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="89.083212,685.59795"
+       orientation="0,-1"
+       id="guide217"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="155.74713,574.76055"
+       orientation="0,-1"
+       id="guide218"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="211.08757,463.14566"
+       orientation="0,-1"
+       id="guide220"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="152.86071,351.36651"
+       orientation="0,-1"
+       id="guide221"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="111.7859,239.84058"
+       orientation="0,-1"
+       id="guide222"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="129.72363,128.05468"
+       orientation="0,-1"
+       id="guide223"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.2790816,685.9443"
+       orientation="1,0"
+       id="guide224"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32.669254,696.46706"
+       orientation="1,0"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="172.21316,675.5719"
+       orientation="0,-1"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="168.37816,652.41719"
+       orientation="0,-1"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="114.54346,629.26248"
+       orientation="0,-1"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="236.65369,605.31155"
+       orientation="0,-1"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="126.0484,564.66685"
+       orientation="0,-1"
+       id="guide8"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="144.15612,541.54045"
+       orientation="0,-1"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="104.67838,518.44976"
+       orientation="0,-1"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="213.08621,494.42452"
+       orientation="0,-1"
+       id="guide11"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="89.018309,453.10361"
+       orientation="0,-1"
+       id="guide12"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="90.151351,429.97773"
+       orientation="0,-1"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="86.900401,406.78345"
+       orientation="0,-1"
+       id="guide14"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="230.87999,382.77643"
+       orientation="0,-1"
+       id="guide15"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="262.63654,341.50298"
+       orientation="0,-1"
+       id="guide16"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="205.81863,318.28172"
+       orientation="0,-1"
+       id="guide17"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="266.64681,295.20253"
+       orientation="0,-1"
+       id="guide18"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="240.98106,271.14088"
+       orientation="0,-1"
+       id="guide19"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="105.95001,229.86029"
+       orientation="0,-1"
+       id="guide20"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="193.06567,206.6933"
+       orientation="0,-1"
+       id="guide21"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="101.16418,183.58035"
+       orientation="0,-1"
+       id="guide22"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="230.22871,159.5494"
+       orientation="0,-1"
+       id="guide23"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="180.02846,118.20803"
+       orientation="0,-1"
+       id="guide24"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="175.59903,95.093512"
+       orientation="0,-1"
+       id="guide25"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="154.3683,71.928085"
+       orientation="0,-1"
+       id="guide26"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="230.48327,47.897137"
+       orientation="0,-1"
+       id="guide27"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     class="svglite"
+     id="g201">
+    <defs
+       id="defs1">
+      <style
+         type="text/css"
+         id="style1"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+    </defs>
+    <rect
+       width="100%"
+       height="100%"
+       style="stroke: none; fill: none;"
+       id="rect1" />
+    <defs
+       id="defs2">
+      <clipPath
+         id="cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=">
+        <rect
+           x="0.00"
+           y="0.00"
+           width="576.00"
+           height="720.00"
+           id="rect2" />
+      </clipPath>
+    </defs>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g2" />
+    <defs
+       id="defs3">
+      <clipPath
+         id="cpODAuMjR8NTY5LjUyfDI3LjQwfDEyNC42Mw==">
+        <rect
+           x="80.24"
+           y="27.40"
+           width="489.28"
+           height="97.23"
+           id="rect3" />
+      </clipPath>
+    </defs>
+    <g
+       clip-path="url(#cpODAuMjR8NTY5LjUyfDI3LjQwfDEyNC42Mw==)"
+       id="g28"
+       transform="translate(-0.74344108,0.74344108)">
+      <polyline
+         points="225.51,124.63 225.51,27.40 "
+         style="stroke:#ebebeb;stroke-width:1.26;stroke-linecap:butt"
+         id="polyline8" />
+      <circle
+         cx="225.50999"
+         cy="110.74"
+         r="3.5599999"
+         style="fill:#000000;stroke:#ffffff;stroke-width:0.71"
+         id="circle11" />
+      <circle
+         cx="258.45999"
+         cy="87.589996"
+         r="3.5599999"
+         style="fill:#000000;stroke-width:0.71"
+         id="circle12" />
+      <circle
+         cx="269.89001"
+         cy="64.440002"
+         r="3.5599999"
+         style="fill:#000000;stroke-width:0.71"
+         id="circle13" />
+      <circle
+         cx="265.53"
+         cy="41.290001"
+         r="3.5599999"
+         style="fill:#000000;stroke-width:0.71"
+         id="circle14" />
+      <polyline
+         points="225.51,113.06 225.51,108.43 "
+         style="stroke-width:1.07;stroke-linecap:butt"
+         id="polyline14" />
+      <polyline
+         points="225.51,110.74 225.51,110.74 "
+         style="stroke-width:1.07;stroke-linecap:butt"
+         id="polyline15" />
+      <polyline
+         points="225.51,113.06 225.51,108.43 "
+         style="stroke-width:1.07;stroke-linecap:butt"
+         id="polyline16" />
+      <polyline
+         points="370.66,89.91 370.66,85.28 "
+         style="stroke-width:1.07;stroke-linecap:butt"
+         id="polyline17" />
+      <polyline
+         points="370.66,87.59 146.26,87.59 "
+         style="stroke-width:1.07;stroke-linecap:butt"
+         id="polyline18" />
+      <polyline
+         points="146.26,89.91 146.26,85.28 "
+         style="stroke-width:1.07;stroke-linecap:butt"
+         id="polyline19" />
+      <polyline
+         points="355.59,66.76 355.59,62.13 "
+         style="stroke-width:1.07;stroke-linecap:butt"
+         id="polyline20" />
+      <polyline
+         points="355.59,64.44 184.20,64.44 "
+         style="stroke-width:1.07;stroke-linecap:butt"
+         id="polyline21" />
+      <polyline
+         points="184.20,66.76 184.20,62.13 "
+         style="stroke-width:1.07;stroke-linecap:butt"
+         id="polyline22" />
+      <polyline
+         points="346.48,43.61 346.48,38.98 "
+         style="stroke-width:1.07;stroke-linecap:butt"
+         id="polyline23" />
+      <polyline
+         points="346.48,41.29 184.58,41.29 "
+         style="stroke-width:1.07;stroke-linecap:butt"
+         id="polyline24" />
+      <polyline
+         points="184.58,43.61 184.58,38.98 "
+         style="stroke-width:1.07;stroke-linecap:butt"
+         id="polyline25" />
+      <text
+         x="267.39001"
+         y="90.849998"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text26"
+         transform="translate(184.45566,-2.9386035)"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           x="267.39001"
+           y="90.849998">1.23 [0.61–2.48]</tspan></text>
+      <text
+         x="278.82999"
+         y="67.699997"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text27"
+         transform="translate(173.12189,-2.9054467)"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           x="278.82999"
+           y="67.699997">1.32 [0.77–2.26]</tspan></text>
+      <text
+         x="274.45999"
+         y="44.549999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.36417px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text28"
+         transform="matrix(0.97767916,0,0,1.1664459,185.59961,-10.533722)"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           x="274.45999"
+           y="44.549999">1.28 [0.77–2.13]</tspan></text>
+      <line
+         x1="225.50999"
+         y1="124.63"
+         x2="225.50999"
+         y2="27.4"
+         style="stroke:#7f7f7f;stroke-width:1.07;stroke-linecap:butt;stroke-dasharray:5.69, 5.69"
+         id="line28" />
+    </g>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g29" />
+    <defs
+       id="defs29">
+      <clipPath
+         id="cpODAuMjR8NTY5LjUyfDEzOS4wM3wyMzYuMjY=">
+        <rect
+           x="80.24"
+           y="139.03"
+           width="489.28"
+           height="97.23"
+           id="rect29" />
+      </clipPath>
+    </defs>
+    <g
+       clip-path="url(#cpODAuMjR8NTY5LjUyfDEzOS4wM3wyMzYuMjY=)"
+       id="g54">
+      <polyline
+         points="225.51,236.26 225.51,139.03 "
+         style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
+         id="polyline34" />
+      <circle
+         cx="225.51"
+         cy="222.37"
+         r="3.56"
+         style="stroke-width: 0.71; stroke: #FFFFFF; fill: #000000;"
+         id="circle37" />
+      <circle
+         cx="216.16"
+         cy="199.22"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle38" />
+      <circle
+         cx="224.71"
+         cy="176.07"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle39" />
+      <circle
+         cx="198.05"
+         cy="152.92"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle40" />
+      <polyline
+         points="225.51,224.69 225.51,220.06 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline40" />
+      <polyline
+         points="225.51,222.37 225.51,222.37 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline41" />
+      <polyline
+         points="225.51,224.69 225.51,220.06 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline42" />
+      <polyline
+         points="329.79,201.54 329.79,196.91 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline43" />
+      <polyline
+         points="329.79,199.22 102.53,199.22 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline44" />
+      <polyline
+         points="102.53,201.54 102.53,196.91 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline45" />
+      <polyline
+         points="312.07,178.39 312.07,173.76 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline46" />
+      <polyline
+         points="312.07,176.07 137.36,176.07 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline47" />
+      <polyline
+         points="137.36,178.39 137.36,173.76 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline48" />
+      <polyline
+         points="280.26,155.24 280.26,150.61 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline49" />
+      <polyline
+         points="280.26,152.92 115.83,152.92 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline50" />
+      <polyline
+         points="115.83,155.24 115.83,150.61 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline51" />
+      <text
+         x="225.09"
+         y="202.48"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text52"
+         transform="translate(225.96824,-3.0578717)"><tspan
+           sodipodi:role="line"
+           id="tspan29"
+           x="225.09"
+           y="202.48">0.94 [0.46–1.92]</tspan></text>
+      <text
+         x="233.64"
+         y="179.33"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text53"
+         transform="translate(217.62704,-2.8187318)"><tspan
+           sodipodi:role="line"
+           id="tspan28"
+           x="233.64"
+           y="179.33">1.00 [0.58–1.72]</tspan></text>
+      <text
+         x="206.98"
+         y="156.17999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text54"
+         transform="translate(244.28185,-2.8012843)"><tspan
+           sodipodi:role="line"
+           id="tspan27"
+           x="206.98"
+           y="156.17999">0.84 [0.50–1.41]</tspan></text>
+      <line
+         x1="225.51"
+         y1="236.26"
+         x2="225.51"
+         y2="139.03"
+         style="stroke-width: 1.07; stroke: #7F7F7F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+         id="line54" />
+    </g>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g55" />
+    <defs
+       id="defs55">
+      <clipPath
+         id="cpODAuMjR8NTY5LjUyfDI1MC42NnwzNDcuODk=">
+        <rect
+           x="80.24"
+           y="250.66"
+           width="489.28"
+           height="97.23"
+           id="rect55" />
+      </clipPath>
+    </defs>
+    <g
+       clip-path="url(#cpODAuMjR8NTY5LjUyfDI1MC42NnwzNDcuODk=)"
+       id="g80">
+      <polyline
+         points="225.51,347.89 225.51,250.66 "
+         style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
+         id="polyline60" />
+      <circle
+         cx="225.51"
+         cy="334.00"
+         r="3.56"
+         style="stroke-width: 0.71; stroke: #FFFFFF; fill: #000000;"
+         id="circle63" />
+      <circle
+         cx="223.13"
+         cy="310.85"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle64" />
+      <circle
+         cx="223.13"
+         cy="287.70"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle65" />
+      <circle
+         cx="223.13"
+         cy="264.55"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle66" />
+      <polyline
+         points="225.51,336.32 225.51,331.69 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline66" />
+      <polyline
+         points="225.51,334.00 225.51,334.00 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline67" />
+      <polyline
+         points="225.51,336.32 225.51,331.69 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline68" />
+      <polyline
+         points="362.54,313.17 362.54,308.54 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline69" />
+      <polyline
+         points="362.54,310.85 83.71,310.85 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline70" />
+      <polyline
+         points="83.71,313.17 83.71,308.54 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline71" />
+      <polyline
+         points="362.54,290.02 362.54,285.39 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline72" />
+      <polyline
+         points="362.54,287.70 83.71,287.70 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline73" />
+      <polyline
+         points="83.71,290.02 83.71,285.39 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline74" />
+      <polyline
+         points="362.54,266.87 362.54,262.24 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline75" />
+      <polyline
+         points="362.54,264.55 83.71,264.55 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline76" />
+      <polyline
+         points="83.71,266.87 83.71,262.24 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline77" />
+      <text
+         x="232.06"
+         y="314.10999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text78"
+         transform="translate(219.22738,-2.8287224)">0.99 [0.41–2.36]</text>
+      <text
+         x="232.06"
+         y="290.95999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text79"
+         transform="translate(219.01306,-3.0586052)"><tspan
+           sodipodi:role="line"
+           id="tspan30"
+           x="232.06"
+           y="290.95999">0.99 [0.41–2.36]</tspan></text>
+      <text
+         x="232.06"
+         y="267.81"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text80"
+         transform="translate(219.0674,-2.9683478)">0.99 [0.41–2.36]</text>
+      <line
+         x1="225.51"
+         y1="347.89"
+         x2="225.51"
+         y2="250.66"
+         style="stroke-width: 1.07; stroke: #7F7F7F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+         id="line80" />
+    </g>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g81" />
+    <defs
+       id="defs81">
+      <clipPath
+         id="cpODAuMjR8NTY5LjUyfDM2Mi4yOXw0NTkuNTI=">
+        <rect
+           x="80.24"
+           y="362.29"
+           width="489.28"
+           height="97.23"
+           id="rect81" />
+      </clipPath>
+    </defs>
+    <g
+       clip-path="url(#cpODAuMjR8NTY5LjUyfDM2Mi4yOXw0NTkuNTI=)"
+       id="g106">
+      <polyline
+         points="225.51,459.52 225.51,362.29 "
+         style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
+         id="polyline86" />
+      <circle
+         cx="225.51"
+         cy="445.63"
+         r="3.56"
+         style="stroke-width: 0.71; stroke: #FFFFFF; fill: #000000;"
+         id="circle89" />
+      <circle
+         cx="351.30"
+         cy="422.48"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle90" />
+      <circle
+         cx="333.62"
+         cy="399.33"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle91" />
+      <circle
+         cx="326.42"
+         cy="376.18"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle92" />
+      <polyline
+         points="225.51,447.95 225.51,443.32 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline92" />
+      <polyline
+         points="225.51,445.63 225.51,445.63 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline93" />
+      <polyline
+         points="225.51,447.95 225.51,443.32 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline94" />
+      <polyline
+         points="430.72,424.80 430.72,420.17 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline95" />
+      <polyline
+         points="430.72,422.48 271.88,422.48 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline96" />
+      <polyline
+         points="271.88,424.80 271.88,420.17 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline97" />
+      <polyline
+         points="397.13,401.65 397.13,397.02 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline98" />
+      <polyline
+         points="397.13,399.33 270.10,399.33 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline99" />
+      <polyline
+         points="270.10,401.65 270.10,397.02 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline100" />
+      <polyline
+         points="386.68,378.50 386.68,373.87 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline101" />
+      <polyline
+         points="386.68,376.18 266.16,376.18 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline102" />
+      <polyline
+         points="266.16,378.50 266.16,373.87 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline103" />
+      <text
+         x="360.23001"
+         y="425.73999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text104"
+         transform="translate(91.043676,-2.7494101)"><tspan
+           sodipodi:role="line"
+           id="tspan33"
+           x="360.23001"
+           y="425.73999">2.20 [1.34–3.61]</tspan></text>
+      <text
+         x="342.54999"
+         y="402.59"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text105"
+         transform="translate(108.6731,-2.8706798)"><tspan
+           sodipodi:role="line"
+           id="tspan32"
+           x="342.54999"
+           y="402.59">1.97 [1.32–2.93]</tspan></text>
+      <text
+         x="335.35001"
+         y="379.44"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text106"
+         transform="translate(115.78737,-2.9070845)"><tspan
+           sodipodi:role="line"
+           id="tspan31"
+           x="335.35001"
+           y="379.44">1.88 [1.29–2.74]</tspan></text>
+      <line
+         x1="225.50999"
+         y1="459.51999"
+         x2="225.50999"
+         y2="362.29001"
+         style="fill:#000000;stroke:#7f7f7f;stroke-width:1.07;stroke-linecap:butt;stroke-dasharray:5.69, 5.69;fill-opacity:0"
+         id="line106"
+         inkscape:highlight-color="#ef1c13" />
+    </g>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g107" />
+    <defs
+       id="defs107">
+      <clipPath
+         id="cpODAuMjR8NTY5LjUyfDQ3My45Mnw1NzEuMTY=">
+        <rect
+           x="80.24"
+           y="473.92"
+           width="489.28"
+           height="97.23"
+           id="rect107" />
+      </clipPath>
+    </defs>
+    <g
+       clip-path="url(#cpODAuMjR8NTY5LjUyfDQ3My45Mnw1NzEuMTY=)"
+       id="g132">
+      <polyline
+         points="225.51,571.16 225.51,473.92 "
+         style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
+         id="polyline112" />
+      <circle
+         cx="225.51"
+         cy="557.27"
+         r="3.56"
+         style="stroke-width: 0.71; stroke: #FFFFFF; fill: #000000;"
+         id="circle115" />
+      <circle
+         cx="232.06"
+         cy="534.12"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle116" />
+      <circle
+         cx="232.06"
+         cy="510.97"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle117" />
+      <circle
+         cx="232.06"
+         cy="487.81"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle118" />
+      <polyline
+         points="225.51,559.58 225.51,554.95 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline118" />
+      <polyline
+         points="225.51,557.27 225.51,557.27 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline119" />
+      <polyline
+         points="225.51,559.58 225.51,554.95 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline120" />
+      <polyline
+         points="371.47,536.43 371.47,531.80 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline121" />
+      <polyline
+         points="371.47,534.12 92.65,534.12 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline122" />
+      <polyline
+         points="92.65,536.43 92.65,531.80 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline123" />
+      <polyline
+         points="371.47,513.28 371.47,508.65 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline124" />
+      <polyline
+         points="371.47,510.97 92.65,510.97 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline125" />
+      <polyline
+         points="92.65,513.28 92.65,508.65 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline126" />
+      <polyline
+         points="371.47,490.13 371.47,485.50 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline127" />
+      <polyline
+         points="371.47,487.81 92.65,487.81 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline128" />
+      <polyline
+         points="92.65,490.13 92.65,485.50 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline129" />
+      <text
+         x="240.99001"
+         y="537.37"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text130"
+         transform="translate(210.13751,-3.103734)"><tspan
+           sodipodi:role="line"
+           id="tspan36"
+           x="240.99001"
+           y="537.37">1.04 [0.44–2.49]</tspan></text>
+      <text
+         x="240.99001"
+         y="514.21997"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text131"
+         transform="translate(210.13387,-3.0168296)"><tspan
+           sodipodi:role="line"
+           id="tspan35"
+           x="240.99001"
+           y="514.21997">1.04 [0.44–2.49]</tspan></text>
+      <text
+         x="240.99001"
+         y="491.07001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text132"
+         transform="translate(210.2755,-3.0088666)"><tspan
+           sodipodi:role="line"
+           id="tspan34"
+           x="240.99001"
+           y="491.07001">1.04 [0.44–2.49]</tspan></text>
+      <line
+         x1="225.51"
+         y1="571.16"
+         x2="225.51"
+         y2="473.92"
+         style="stroke-width: 1.07; stroke: #7F7F7F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+         id="line132" />
+    </g>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g133" />
+    <defs
+       id="defs133">
+      <clipPath
+         id="cpODAuMjR8NTY5LjUyfDU4NS41Nnw2ODIuNzk=">
+        <rect
+           x="80.24"
+           y="585.56"
+           width="489.28"
+           height="97.23"
+           id="rect133" />
+      </clipPath>
+    </defs>
+    <g
+       clip-path="url(#cpODAuMjR8NTY5LjUyfDU4NS41Nnw2ODIuNzk=)"
+       id="g158">
+      <polyline
+         points="225.51,682.79 225.51,585.56 "
+         style="stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;"
+         id="polyline138" />
+      <circle
+         cx="225.51"
+         cy="668.90"
+         r="3.56"
+         style="stroke-width: 0.71; stroke: #FFFFFF; fill: #000000;"
+         id="circle141" />
+      <circle
+         cx="232.93"
+         cy="645.75"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle142" />
+      <circle
+         cx="237.24"
+         cy="622.60"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle143" />
+      <circle
+         cx="238.12"
+         cy="599.45"
+         r="3.56"
+         style="stroke-width: 0.71; fill: #000000;"
+         id="circle144" />
+      <polyline
+         points="225.51,671.21 225.51,666.58 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline144" />
+      <polyline
+         points="225.51,668.90 225.51,668.90 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline145" />
+      <polyline
+         points="225.51,671.21 225.51,666.58 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline146" />
+      <polyline
+         points="318.42,648.06 318.42,643.43 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline147" />
+      <polyline
+         points="318.42,645.75 147.44,645.75 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline148" />
+      <polyline
+         points="147.44,648.06 147.44,643.43 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline149" />
+      <polyline
+         points="305.48,624.91 305.48,620.28 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline150" />
+      <polyline
+         points="305.48,622.60 168.99,622.60 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline151" />
+      <polyline
+         points="168.99,624.91 168.99,620.28 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline152" />
+      <polyline
+         points="302.25,601.76 302.25,597.13 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline153" />
+      <polyline
+         points="302.25,599.45 174.00,599.45 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline154" />
+      <polyline
+         points="174.00,601.76 174.00,597.13 "
+         style="stroke-width: 1.07; stroke-linecap: butt;"
+         id="polyline155" />
+      <text
+         x="241.86"
+         y="649"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text156"
+         transform="translate(209.25078,-3.0088666)"><tspan
+           sodipodi:role="line"
+           id="tspan39"
+           x="241.86"
+           y="649">1.05 [0.61–1.79]</tspan></text>
+      <text
+         x="246.17"
+         y="625.84998"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text157"
+         transform="translate(205.01181,-2.9694811)"><tspan
+           sodipodi:role="line"
+           id="tspan38"
+           x="246.17"
+           y="625.84998">1.08 [0.70–1.65]</tspan></text>
+      <text
+         x="247.06"
+         y="602.70001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         textLength="89.309998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text158"
+         transform="translate(204.14127,-3.0822322)"><tspan
+           sodipodi:role="line"
+           id="tspan37"
+           x="247.06"
+           y="602.70001">1.08 [0.72–1.62]</tspan></text>
+      <line
+         x1="225.51"
+         y1="682.79"
+         x2="225.51"
+         y2="585.56"
+         style="stroke-width: 1.07; stroke: #7F7F7F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+         id="line158" />
+    </g>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g159" />
+    <defs
+       id="defs159">
+      <clipPath
+         id="cpNjAuMjZ8ODAuMjR8MjcuNDB8MTI0LjYz">
+        <rect
+           x="60.26"
+           y="27.40"
+           width="19.99"
+           height="97.23"
+           id="rect159" />
+      </clipPath>
+    </defs>
+    <g
+       clip-path="url(#cpNjAuMjZ8ODAuMjR8MjcuNDB8MTI0LjYz)"
+       id="g160"
+       transform="rotate(90,79.070867,39.363846)">
+      <text
+         transform="rotate(-90,74.995,1.025)"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:10.4px;font-family:Arial;fill:#1a1a1a"
+         textLength="71.230003"
+         lengthAdjust="spacingAndGlyphs"
+         id="text159">Cardiac Arrest</text>
+    </g>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g161" />
+    <defs
+       id="defs161">
+      <clipPath
+         id="cpNjAuMjZ8ODAuMjR8MTM5LjAzfDIzNi4yNg==">
+        <rect
+           x="60.26"
+           y="139.03"
+           width="19.99"
+           height="97.23"
+           id="rect161" />
+      </clipPath>
+    </defs>
+    <g
+       clip-path="url(#cpNjAuMjZ8ODAuMjR8MTM5LjAzfDIzNi4yNg==)"
+       id="g162"
+       transform="rotate(90,84.703962,155.84681)">
+      <text
+         transform="rotate(-90,130.81,56.84)"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:10.4px;font-family:Arial;fill:#1a1a1a"
+         textLength="92.389999"
+         lengthAdjust="spacingAndGlyphs"
+         id="text161">Cerebral Infarction</text>
+    </g>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g163" />
+    <defs
+       id="defs163" />
+    <text
+       transform="translate(73.203373,256.86837)"
+       text-anchor="middle"
+       style="font-weight:bold;font-size:10.4px;font-family:Arial;display:inline;fill:#1a1a1a"
+       textLength="133.36"
+       lengthAdjust="spacingAndGlyphs"
+       id="text163">Embolism and Thrombosis</text>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g165" />
+    <defs
+       id="defs165" />
+    <text
+       transform="translate(78.395371,368.47728)"
+       text-anchor="middle"
+       style="font-weight:bold;font-size:10.4px;font-family:Arial;fill:#1a1a1a"
+       textLength="143.19"
+       lengthAdjust="spacingAndGlyphs"
+       id="text165">Gastrointestinal Hemorrhage</text>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g167" />
+    <defs
+       id="defs167" />
+    <text
+       transform="translate(104.95213,480.15101)"
+       text-anchor="middle"
+       style="font-weight:bold;font-size:10.4px;font-family:Arial;fill:#1a1a1a"
+       textLength="196.91"
+       lengthAdjust="spacingAndGlyphs"
+       id="text167">Nontraumatic Intracerebral Hemorrhage</text>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g169" />
+    <defs
+       id="defs169">
+      <clipPath
+         id="cpNjAuMjZ8ODAuMjR8NTg1LjU2fDY4Mi43OQ==">
+        <rect
+           x="60.26"
+           y="585.56"
+           width="19.99"
+           height="97.23"
+           id="rect169" />
+      </clipPath>
+    </defs>
+    <g
+       clip-path="url(#cpNjAuMjZ8ODAuMjR8NTg1LjU2fDY4Mi43OQ==)"
+       id="g170"
+       transform="rotate(90,69.512335,587.40302)">
+      <text
+         transform="rotate(-90,354.07,280.1)"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:10.4px;font-family:Arial;fill:#1a1a1a"
+         textLength="31.77"
+         lengthAdjust="spacingAndGlyphs"
+         id="text169">STEMI</text>
+    </g>
+    <g
+       clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHw3MjAuMDA=)"
+       id="g200"
+       transform="translate(2.9852961)">
+      <text
+         x="114.71"
+         y="696.04999"
+         text-anchor="middle"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="14.45"
+         lengthAdjust="spacingAndGlyphs"
+         id="text170">0.5</text>
+      <text
+         x="225.50999"
+         y="696.04999"
+         text-anchor="middle"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="14.45"
+         lengthAdjust="spacingAndGlyphs"
+         id="text171">1.0</text>
+      <text
+         x="336.29999"
+         y="696.04999"
+         text-anchor="middle"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="14.45"
+         lengthAdjust="spacingAndGlyphs"
+         id="text172">2.0</text>
+      <text
+         x="447.10001"
+         y="696.04999"
+         text-anchor="middle"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="14.45"
+         lengthAdjust="spacingAndGlyphs"
+         id="text173">4.0</text>
+      <text
+         x="557.90002"
+         y="696.04999"
+         text-anchor="middle"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="14.45"
+         lengthAdjust="spacingAndGlyphs"
+         id="text174">8.0</text>
+      <text
+         x="54.43"
+         y="114.46"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="47.950001"
+         lengthAdjust="spacingAndGlyphs"
+         id="text175"
+         transform="translate(22.351439,0.2321591)">Reference</text>
+      <text
+         x="54.43"
+         y="91.309998"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="43.34"
+         lengthAdjust="spacingAndGlyphs"
+         id="text176"
+         transform="translate(12.324078,-0.75874045)">  3 month</text>
+      <text
+         x="54.43"
+         y="68.160004"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="43.34"
+         lengthAdjust="spacingAndGlyphs"
+         id="text177"
+         transform="translate(12.34405,-0.72358472)">  9 month</text>
+      <text
+         x="54.43"
+         y="45.009998"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="34.669998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text178"
+         transform="translate(3.020046,-0.58765634)">  1 year</text>
+      <text
+         x="54.43"
+         y="226.09"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="47.950001"
+         lengthAdjust="spacingAndGlyphs"
+         id="text179"
+         transform="translate(22.305332,-0.57080549)">Reference</text>
+      <text
+         x="54.43"
+         y="202.94"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="43.34"
+         lengthAdjust="spacingAndGlyphs"
+         id="text180"
+         transform="translate(12.421311,-1.4950729)">  3 month</text>
+      <text
+         x="54.43"
+         y="179.78999"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="43.34"
+         lengthAdjust="spacingAndGlyphs"
+         id="text181"
+         transform="translate(12.385555,-1.494827)">  9 month</text>
+      <text
+         x="54.43"
+         y="156.64"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="34.669998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text182"
+         transform="translate(2.9675886,-1.3372579)">  1 year</text>
+      <text
+         x="54.43"
+         y="337.72"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="47.950001"
+         lengthAdjust="spacingAndGlyphs"
+         id="text183"
+         transform="translate(22.362954,-0.53757101)">Reference</text>
+      <text
+         x="54.43"
+         y="314.57001"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="43.34"
+         lengthAdjust="spacingAndGlyphs"
+         id="text184"
+         transform="translate(12.310376,-1.3976846)">  3 month</text>
+      <text
+         x="54.43"
+         y="291.42001"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="43.34"
+         lengthAdjust="spacingAndGlyphs"
+         id="text185"
+         transform="translate(12.364133,-1.5051988)">  9 month</text>
+      <text
+         x="54.43"
+         y="268.26999"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="34.669998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text186"
+         transform="translate(2.9569404,-1.4448348)">  1 year</text>
+      <text
+         x="54.43"
+         y="449.35001"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="47.950001"
+         lengthAdjust="spacingAndGlyphs"
+         id="text187"
+         transform="translate(22.31171,-0.51039861)">Reference</text>
+      <text
+         x="54.43"
+         y="426.20001"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="43.34"
+         lengthAdjust="spacingAndGlyphs"
+         id="text188"
+         transform="translate(12.395395,-1.5311958)">  3 month</text>
+      <text
+         x="54.43"
+         y="403.04999"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="43.34"
+         lengthAdjust="spacingAndGlyphs"
+         id="text189"
+         transform="translate(12.395395,-1.5311958)">  9 month</text>
+      <text
+         x="54.43"
+         y="379.89999"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="34.669998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text190"
+         transform="translate(3.0623916,-1.5311958)">  1 year</text>
+      <text
+         x="54.43"
+         y="560.97998"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="47.950001"
+         lengthAdjust="spacingAndGlyphs"
+         id="text191"
+         transform="translate(22.350819,-0.56004329)">Reference</text>
+      <text
+         x="54.43"
+         y="537.83002"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="43.34"
+         lengthAdjust="spacingAndGlyphs"
+         id="text192"
+         transform="translate(12.320952,-1.4764777)">  3 month</text>
+      <text
+         x="54.43"
+         y="514.67999"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="43.34"
+         lengthAdjust="spacingAndGlyphs"
+         id="text193"
+         transform="translate(12.371865,-1.4255647)">  9 month</text>
+      <text
+         x="54.43"
+         y="491.53"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="34.669998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text194"
+         transform="translate(2.9529555,-1.3746517)">  1 year</text>
+      <text
+         x="54.43"
+         y="672.60999"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="47.950001"
+         lengthAdjust="spacingAndGlyphs"
+         id="text195"
+         transform="translate(22.324037,-0.54228431)">Reference</text>
+      <text
+         x="54.43"
+         y="649.46002"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="43.34"
+         lengthAdjust="spacingAndGlyphs"
+         id="text196"
+         transform="translate(12.382158,-1.5364722)">  3 month</text>
+      <text
+         x="54.43"
+         y="626.31"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="43.34"
+         lengthAdjust="spacingAndGlyphs"
+         id="text197"
+         transform="translate(12.382158,-1.5364722)">  9 month</text>
+      <text
+         x="54.43"
+         y="603.15997"
+         text-anchor="end"
+         style="font-size:10.4px;font-family:Arial;fill:#4d4d4d"
+         textLength="34.669998"
+         lengthAdjust="spacingAndGlyphs"
+         id="text198"
+         transform="translate(2.9825637,-1.4460915)">  1 year</text>
+      <text
+         x="324.88"
+         y="710.78998"
+         text-anchor="middle"
+         style="font-size:13px;font-family:Arial"
+         textLength="172.7"
+         lengthAdjust="spacingAndGlyphs"
+         id="text199">Risk Ratio (log scale, 95% CI)</text>
+      <text
+         x="80.239998"
+         y="17.639999"
+         style="font-size:15.6px;font-family:Arial"
+         textLength="392.54999"
+         lengthAdjust="spacingAndGlyphs"
+         id="text200">Forest Plot of Risk Ratios by Outcome and Time Window</text>
+    </g>
+  </g>
+</svg>
