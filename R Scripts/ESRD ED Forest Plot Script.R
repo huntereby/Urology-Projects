@@ -9,9 +9,9 @@ library(ggplot2)
 # File Paths
 # ========================
 # Folder containing the one year results
-dir_1yr  <- "Results1/Unnamed_Analysis_359371/"   # <--- update if renamed
+dir_1yr  <- "Results1/ESRD ED 1 year/"   # <--- update if renamed
 # Folder containing the five year results
-dir_5yr  <- "Results1/ESRD_ED_5_year/"           # <--- update this path
+dir_5yr  <- "Results1/5 year ESRD ED//"           # <--- update this path
 
 # ========================
 # Outcome Mapping (for Outcome_8+)
@@ -147,7 +147,7 @@ forest_plot <- ggplot(plot_df, aes(x = `Risk Ratio`, y = Label, group = TimeHori
   )
 
 print(forest_plot)
-# ggsave("forest_plot.svg", forest_plot, width = 10, height = 12)
+ggsave("forest_plot.svg", forest_plot, width = 10, height = 12)
 
 # ========================
 # KM Plot for Outcomes 1-3
